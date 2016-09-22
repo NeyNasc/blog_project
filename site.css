@@ -4,6 +4,7 @@ body{
 
 h1, h2{
 	font-family: "Arial", sans-serif;
+<<<<<<< HEAD
 	font-size: 100%;
 }
 
@@ -13,11 +14,20 @@ h1 {
     color: #FFF;
     padding: 24px;
     font-size: 30px;
+=======
+}
+
+main h1 {
+    text-align: center;
+    background-color: #851944;
+    color: #FFF;
+>>>>>>> cd932ca87659c995ee93f25ec6e917d00d4eda32
 }
 
 p{
 	text-align: justify;
 	font-family: "Times New Roman", serif;
+<<<<<<< HEAD
 	margin: 0;
 }
 
@@ -33,4 +43,6 @@ blockquote {
     border: 10px solid #C2CCCA;
     width: 250px;
     box-sizing: border-box;
+=======
+>>>>>>> cd932ca87659c995ee93f25ec6e917d00d4eda32
 }
