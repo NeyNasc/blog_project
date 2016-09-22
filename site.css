@@ -4,15 +4,33 @@ body{
 
 h1, h2{
 	font-family: "Arial", sans-serif;
+	font-size: 100%;
 }
 
-main h1 {
+h1 {
     text-align: center;
     background-color: #851944;
     color: #FFF;
+    padding: 24px;
+    font-size: 30px;
 }
 
 p{
 	text-align: justify;
 	font-family: "Times New Roman", serif;
+	margin: 0;
+}
+
+blockquote {
+    padding: 16px;
+    margin: 0;
+    border: 10px solid #C2CCCA;
+}
+
+blockquote {
+    padding: 16px;
+    margin: 0;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    box-sizing: border-box;
 }
