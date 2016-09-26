@@ -133,3 +133,13 @@ main {
     right: 0;
     height: 300px;
 }
+
+
+.inicio-post {
+    background-color: #FFF;
+    position: absolute;
+    top: 3em;
+    right: 3em;
+    height: 6em;
+    padding: 1em;
+}
